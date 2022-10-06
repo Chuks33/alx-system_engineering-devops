@@ -1,1 +1,1 @@
-where am i
+display directory in long format
