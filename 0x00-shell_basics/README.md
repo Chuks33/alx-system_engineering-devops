@@ -1,1 +1,1 @@
-script that diplays current content including hidden files
+script that displays current content including hidden files
