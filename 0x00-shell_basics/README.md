@@ -1,1 +1,1 @@
-Betty in my first directory
+create script that creates file name my first directory
