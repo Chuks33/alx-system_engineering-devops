@@ -1,1 +1,1 @@
-copy HMTL files
+copy html files
