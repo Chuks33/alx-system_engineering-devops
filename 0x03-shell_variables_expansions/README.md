@@ -1,1 +1,1 @@
-7 create global variables
+8 true knowledge
