@@ -1,1 +1,1 @@
-3 paths
+4 global variables
