@@ -1,1 +1,1 @@
-102 odd
+100 decimal
