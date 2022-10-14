@@ -1,1 +1,1 @@
-all four more advanced permissions
+101 symbolic
