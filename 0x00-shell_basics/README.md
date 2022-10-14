@@ -1,1 +1,1 @@
-school magic
+magic school
